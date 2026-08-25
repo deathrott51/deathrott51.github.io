@@ -6,7 +6,7 @@ window.PORTFOLIO = {
   person: {
     name: "Anupam Shukla",
     firstName: "Anupam",
-    title: "Data Analyst & Data Scientist",
+    title: "Data Science",
     eyebrow: "IIT (BHU) · Electronics",
     location: "Bangalore, India",
     email: "Anupam.shukla.iit25@gmail.com",
@@ -15,10 +15,10 @@ window.PORTFOLIO = {
     github: "https://github.com/deathrott51",
     resume: "assets/resume.pdf",
     photo: "assets/anupam.jpg",
-    availability: "Open to data analyst and data scientist roles",
+    availability: "Open to data roles",
     tagline:
       "IIT (BHU) engineer who moves data with SQL, models with Python, and writes the check so a teammate can audit it.",
-    lede: "You sit down with Anupam in Bangalore — tea, a messy spreadsheet, and a question that actually matters. He is an IIT (BHU) Electronics graduate looking for analyst and scientist rooms, not a gallery of notebooks.",
+    lede: "You sit down with Anupam in Bangalore — tea, a messy spreadsheet, and a question that actually matters. He is an IIT (BHU) Electronics graduate looking for data work, not a gallery of notebooks.",
     about: [
       "Competition podiums taught him to frame a dataset fast. E-Ring taught him to make a pipeline survive month-end. Xelron, remote, put him on Merline, Terminus, Cobra, and Sentinel as project lead.",
       "He wants roles where SQL, Python, and a clear recommendation sit in the same conversation.",

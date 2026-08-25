@@ -1,6 +1,6 @@
 # Anupam Shukla — data portfolio
 
-Static site for analyst and scientist applications. All copy lives in [`js/content.js`](js/content.js). The resume PDF is [`assets/resume.pdf`](assets/resume.pdf).
+Static site for data roles. All copy lives in [`js/content.js`](js/content.js). The resume PDF is [`assets/resume.pdf`](assets/resume.pdf).
 
 ## Run locally
 
