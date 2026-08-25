@@ -8,7 +8,7 @@ window.PORTFOLIO = {
     firstName: "Anupam",
     title: "Data Analyst & Data Scientist",
     eyebrow: "IIT (BHU) · Electronics",
-    location: "Varanasi, India",
+    location: "Bangalore, India",
     email: "Anupam.shukla.iit25@gmail.com",
     phone: "+91-808-147-7979",
     linkedin: "https://www.linkedin.com/in/deathrott/",
@@ -18,7 +18,7 @@ window.PORTFOLIO = {
     availability: "Open to data analyst and data scientist roles",
     tagline:
       "IIT (BHU) engineer who moves data with SQL, models with Python, and writes the check so a teammate can audit it.",
-    lede: "You sit down with Anupam in Varanasi — tea, a messy spreadsheet, and a question that actually matters. He is an IIT (BHU) Electronics graduate looking for analyst and scientist rooms, not a gallery of notebooks.",
+    lede: "You sit down with Anupam in Bangalore — tea, a messy spreadsheet, and a question that actually matters. He is an IIT (BHU) Electronics graduate looking for analyst and scientist rooms, not a gallery of notebooks.",
     about: [
       "Competition podiums taught him to frame a dataset fast. E-Ring taught him to make a pipeline survive month-end. Xelron, remote, put him on Merline, Terminus, Cobra, and Sentinel as project lead.",
       "He wants roles where SQL, Python, and a clear recommendation sit in the same conversation.",
